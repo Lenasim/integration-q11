@@ -117,7 +117,7 @@ span.orangetxt {
     font-size: 1.5rem;
 }
 .dead {
-    text-decoration: line-through;
+    text-decoration:#F36127 line-through;
 }
 
 
