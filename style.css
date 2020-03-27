@@ -91,6 +91,7 @@ span {
     transform: translate(-50%, -50%);
     color: #F36127;
     font-size: 3rem;
+    z-index: 2;
 }
 .hvbtn > p {
     color: black;
@@ -107,8 +108,7 @@ span.orangetxt {
     transform: translate(-50%, -50%);
     z-index: 2;
 }
-.card:hover .hvbtn,
-.card:hover .hvtxt {
+.card:hover .hvbtn {
     display: inline-block;
     position: absolute;
     z-index: 2;
