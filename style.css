@@ -116,6 +116,9 @@ span.orangetxt {
 .card-text {
     font-size: 1.5rem;
 }
+.dead {
+    text-decoration: line-through;
+}
 
 
 
