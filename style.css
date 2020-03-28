@@ -111,6 +111,7 @@ span {
 }
 .card-body {
     font-size: 1.5rem;
+    padding-bottom: 0;
 }
 .dead {
     text-decoration:#F36127 line-through;
